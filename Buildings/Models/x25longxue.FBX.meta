@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 8a7defa651343ae42ac530bb651a6e4e
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: x25diban
+    100002: x25dibanweibian
+    100004: x25ding
+    100006: x25dizhuan
+    100008: x25dong
+    100010: //RootNode
+    100012: x25qiangto
+    100014: x25ti
+    100016: x25zhuzi
+    100018: x25longxue01_cld
+    100020: x25longxue01_walk_cld
+    100022: x25longxue02_walk_cld
+    100024: x25longxue03_walk_cld
+    100026: x25longxue04_walk_cld
+    100028: x25longxue06_walk_cld
+    100030: x25longxue07_walk_cld
+    100032: x25longxue_cld
+    100034: x25longxue_walk_cld
+    100036: x25zhuziti001
+    400000: x25diban
+    400002: x25dibanweibian
+    400004: x25ding
+    400006: x25dizhuan
+    400008: x25dong
+    400010: //RootNode
+    400012: x25qiangto
+    400014: x25ti
+    400016: x25zhuzi
+    400018: x25longxue01_cld
+    400020: x25longxue01_walk_cld
+    400022: x25longxue02_walk_cld
+    400024: x25longxue03_walk_cld
+    400026: x25longxue04_walk_cld
+    400028: x25longxue06_walk_cld
+    400030: x25longxue07_walk_cld
+    400032: x25longxue_cld
+    400034: x25longxue_walk_cld
+    400036: x25zhuziti001
+    2300000: x25diban
+    2300002: x25dibanweibian
+    2300004: x25ding
+    2300006: x25dizhuan
+    2300008: x25dong
+    2300010: x25qiangto
+    2300012: x25ti
+    2300014: x25zhuzi
+    2300016: x25longxue01_cld
+    2300018: x25longxue01_walk_cld
+    2300020: x25longxue02_walk_cld
+    2300022: x25longxue03_walk_cld
+    2300024: x25longxue04_walk_cld
+    2300026: x25longxue06_walk_cld
+    2300028: x25longxue07_walk_cld
+    2300030: x25longxue_cld
+    2300032: x25longxue_walk_cld
+    2300034: x25zhuziti001
+    3300000: x25diban
+    3300002: x25dibanweibian
+    3300004: x25ding
+    3300006: x25dizhuan
+    3300008: x25dong
+    3300010: x25qiangto
+    3300012: x25ti
+    3300014: x25zhuzi
+    3300016: x25longxue01_cld
+    3300018: x25longxue01_walk_cld
+    3300020: x25longxue02_walk_cld
+    3300022: x25longxue03_walk_cld
+    3300024: x25longxue04_walk_cld
+    3300026: x25longxue06_walk_cld
+    3300028: x25longxue07_walk_cld
+    3300030: x25longxue_cld
+    3300032: x25longxue_walk_cld
+    3300034: x25zhuziti001
+    4300000: x25ding
+    4300002: x25qiangto
+    4300004: x25zhuzi
+    4300006: x25dizhuan
+    4300008: x25ti
+    4300010: x25diban
+    4300012: x25dong
+    4300014: x25dibanweibian
+    4300016: x25longxue01_cld
+    4300018: x25longxue07_walk_cld
+    4300020: x25longxue_walk_cld
+    4300022: x25longxue01_walk_cld
+    4300024: x25longxue06_walk_cld
+    4300026: x25longxue02_walk_cld
+    4300028: x25longxue04_walk_cld
+    4300030: x25longxue03_walk_cld
+    4300032: x25longxue_cld
+    4300034: x25zhuziti001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

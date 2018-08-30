@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: f8893a25dc9db634780bd54311feafb3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackHem1
+    100002: BackHem2
+    100004: BackHemend
+    100006: Bip01
+    100008: Bip01 Head
+    100010: Bip01 L Calf
+    100012: Bip01 L Clavicle
+    100014: Bip01 L Finger0
+    100016: Bip01 L Foot
+    100018: Bip01 L Forearm
+    100020: Bip01 L Hand
+    100022: Bip01 L Thigh
+    100024: Bip01 L Toe0
+    100026: Bip01 L UpperArm
+    100028: Bip01 Neck
+    100030: Bip01 Pelvis
+    100032: Bip01 R Calf
+    100034: Bip01 R Clavicle
+    100036: Bip01 R Finger0
+    100038: Bip01 R Foot
+    100040: Bip01 R Forearm
+    100042: Bip01 R Hand
+    100044: Bip01 R Thigh
+    100046: Bip01 R Toe0
+    100048: Bip01 R UpperArm
+    100050: Bip01 Spine
+    100052: Bip01 Spine1
+    100054: body
+    100056: Braid1
+    100058: Braid2
+    100060: Braid3
+    100062: Braidend
+    100064: cloak
+    100066: Cloak1
+    100068: Cloak2
+    100070: Cloak3
+    100072: Cloakend
+    100074: face
+    100076: FrontHem1
+    100078: FrontHem2
+    100080: FrontHemend
+    100082: hair
+    100084: Hair1
+    100086: Hair2
+    100088: HH_weaponHandLf
+    100090: HH_weaponHandRt
+    100092: LeftEye
+    100094: LeftHem1
+    100096: LeftHem2
+    100098: LeftHemend
+    100100: LeftSleeve1
+    100102: LeftSleeve2
+    100104: LeftSleeve3
+    100106: ornament
+    100108: Ornament1
+    100110: Ornament2
+    100112: Ornamentend
+    100114: RightEye
+    100116: RightHem1
+    100118: RightHem2
+    100120: RightHemend
+    100122: RightSleeve1
+    100124: RightSleeve2
+    100126: RightSleeve3
+    100128: //RootNode
+    400000: BackHem1
+    400002: BackHem2
+    400004: BackHemend
+    400006: Bip01
+    400008: Bip01 Head
+    400010: Bip01 L Calf
+    400012: Bip01 L Clavicle
+    400014: Bip01 L Finger0
+    400016: Bip01 L Foot
+    400018: Bip01 L Forearm
+    400020: Bip01 L Hand
+    400022: Bip01 L Thigh
+    400024: Bip01 L Toe0
+    400026: Bip01 L UpperArm
+    400028: Bip01 Neck
+    400030: Bip01 Pelvis
+    400032: Bip01 R Calf
+    400034: Bip01 R Clavicle
+    400036: Bip01 R Finger0
+    400038: Bip01 R Foot
+    400040: Bip01 R Forearm
+    400042: Bip01 R Hand
+    400044: Bip01 R Thigh
+    400046: Bip01 R Toe0
+    400048: Bip01 R UpperArm
+    400050: Bip01 Spine
+    400052: Bip01 Spine1
+    400054: body
+    400056: Braid1
+    400058: Braid2
+    400060: Braid3
+    400062: Braidend
+    400064: cloak
+    400066: Cloak1
+    400068: Cloak2
+    400070: Cloak3
+    400072: Cloakend
+    400074: face
+    400076: FrontHem1
+    400078: FrontHem2
+    400080: FrontHemend
+    400082: hair
+    400084: Hair1
+    400086: Hair2
+    400088: HH_weaponHandLf
+    400090: HH_weaponHandRt
+    400092: LeftEye
+    400094: LeftHem1
+    400096: LeftHem2
+    400098: LeftHemend
+    400100: LeftSleeve1
+    400102: LeftSleeve2
+    400104: LeftSleeve3
+    400106: ornament
+    400108: Ornament1
+    400110: Ornament2
+    400112: Ornamentend
+    400114: RightEye
+    400116: RightHem1
+    400118: RightHem2
+    400120: RightHemend
+    400122: RightSleeve1
+    400124: RightSleeve2
+    400126: RightSleeve3
+    400128: //RootNode
+    4300000: ornament
+    4300002: body
+    4300004: hair
+    4300006: cloak
+    4300008: face
+    11100000: //RootNode
+    13700000: body
+    13700002: cloak
+    13700004: face
+    13700006: hair
+    13700008: ornament
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
